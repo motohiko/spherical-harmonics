@@ -1,4 +1,4 @@
-import sys
+﻿import sys
 import time
 import math
 from math import e
