@@ -1,10 +1,5 @@
-﻿import sys
-import time
-import math
-from math import e
+﻿import math
 import numpy as np
-from numpy.core.fromnumeric import shape
-from numpy.linalg.linalg import norm
 import cv2
 
 def calc_n_vector(img_cv, coord):
